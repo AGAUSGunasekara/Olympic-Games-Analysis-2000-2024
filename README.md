@@ -8,7 +8,7 @@ This project presents an **in-depth analysis** of the **Summer Olympic Games fro
 - **Programming Languages**: SQL (for querying and data preparation)
 
 ## Key Achievements  
--  Developed a **comprehensive dashboard** summarizing major Olympic trends from 2000 to 2024   
+-  Developed a **comprehensive dashboard** summarizing major Olympic trends from 2000 to 2016   
 -  Highlighted **gender disparities**, showing underrepresentation of female athletes in certain sports  
 -  Analyzed **medal distribution dominance**, linking it to government funding and sports infrastructure  
 -  Explored the **introduction of new sports**, reflecting evolving cultural and societal preferences  
