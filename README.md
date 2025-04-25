@@ -1,6 +1,6 @@
-# Olympic Games Analysis (2000 - 2024) & Power BI Dashboard
+# Olympic Games Analysis (2000 - 2016) & Power BI Dashboard
 
-This project presents an **in-depth analysis** of the **Summer Olympic Games from 2000 to 2024**, focusing on trends, participation, and key insights. The analysis is visualized through an **interactive Power BI dashboard**, offering data-driven insights into the **evolution of the Olympic Games**, emerging trends, and global sports development.
+This project presents an **in-depth analysis** of the **Summer Olympic Games from 2000 to 2016**, focusing on trends, participation, and key insights. The analysis is visualized through an **interactive Power BI dashboard**, offering data-driven insights into the **evolution of the Olympic Games**, emerging trends, and global sports development.
 
 ## Technologies Used  
 - **Data Analysis & Visualization**: Power BI  
